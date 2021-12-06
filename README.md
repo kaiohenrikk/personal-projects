@@ -1,3 +1,3 @@
 # Projetos Pessoais
 
-* [Coversor de Número Binário para Decimal/Binary to Decimal Number Converter]()
+* [Calculadora - Map, Slice, Array.from e Eval](https://github.com/kaiohenrikk/personal-projects/tree/main/calculator)

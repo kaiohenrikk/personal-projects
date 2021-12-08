@@ -2,8 +2,6 @@ let display = document.getElementById('display');
 
 let buttons = Array.from(document.getElementsByClassName('button'));
 
-// Tomar cuidado ao usar "eval", pois é fácil de exploitar. 
-
 buttons.map( button => {
     button.addEventListener('click', (e) => {
         switch(e.target.innerText){

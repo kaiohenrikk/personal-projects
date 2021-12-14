@@ -1,4 +1,4 @@
-# Projetos Pessoais
+# Projetos de Estudos
 
 * [Calculadora Simples](https://github.com/kaiohenrikk/personal-projects/tree/main/simple-calculator)
 
